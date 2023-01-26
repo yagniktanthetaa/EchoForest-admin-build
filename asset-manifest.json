@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f776c0cf.css",
+    "main.js": "/static/js/main.e7dfcbb6.js",
+    "static/media/EchoForestLogo.png": "/static/media/EchoForestLogo.785bf2c4f841e49cbf07.png",
+    "index.html": "/index.html",
+    "main.f776c0cf.css.map": "/static/css/main.f776c0cf.css.map",
+    "main.e7dfcbb6.js.map": "/static/js/main.e7dfcbb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f776c0cf.css",
+    "static/js/main.e7dfcbb6.js"
+  ]
+}
